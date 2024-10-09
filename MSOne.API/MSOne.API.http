@@ -1,0 +1,6 @@
+@MSOne.API_HostAddress = http://localhost:5247
+
+GET {{MSOne.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
